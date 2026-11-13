@@ -18,4 +18,3 @@ I specialize in full-scope penetration testing and adversarial simulation across
 
 #### Featured Work
 * **[cloud-appsec-adversarial-arsenal](https://github.com/gomaura/cloud-appsec-adversarial-arsenal)** — A centralized repository of custom reconnaissance scripts, targeted security scanners, and detailed lab write-ups.
-* **[offsec-arsenal](https://github.com/YOUR-USERNAME/offsec-arsenal)** — A centralized repository of custom reconnaissance scripts, targeted security scanners, and detailed lab write-ups.
